@@ -1,0 +1,30 @@
+h1{
+  color: blue;
+}
+
+li{
+  color: magenta;
+}
+
+body{
+  background: orange;
+}
+.firstDiv{
+  color: red;
+
+}
+.secondDiv{
+  color: blue;
+}
+span{
+  background: purple;
+}
+
+#singledout{
+  color: green;
+  text-decoration: overline;
+}
+
+h3 + ul{
+  border: 4px dotted purple;
+}
